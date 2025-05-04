@@ -1,5 +1,7 @@
 📘 Titanic Survival Prediction using Machine Learning
+
 “Can a machine learn who survives the sinking of the Titanic?”
+
 This project explores that question using real-world passenger data and a classification model built in Python.
 
 🚢 Problem Statement
